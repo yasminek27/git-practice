@@ -15,3 +15,9 @@ just understanding the program that you are meant to work on. The article
 then goes on to say that AI will not replace programmers but will help 
 them advance instead which is a similar conversation to the one had during 
 our class.
+
+## Sofia's Additional Thoughts
+
+I also found this article really interesting. I found the author's argument very compelling, especially regarding the idea that although AI can technically code by itself, we still need to teach people how to code to be able to understand what the code is doing. Using code from generative AI that you yourself do not understand can lead to many consequences. 
+
+- Sofia Matari
